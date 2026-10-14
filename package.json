@@ -1,0 +1,9 @@
+{
+  "name": "bot-wa",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^8.16.0",
+    "sharp": "^0.33.4"
+  }
+}
